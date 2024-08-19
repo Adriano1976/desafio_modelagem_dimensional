@@ -1,0 +1,1 @@
+# diagrama_dimensional_curso.sql
