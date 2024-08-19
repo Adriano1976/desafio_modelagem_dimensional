@@ -10,8 +10,6 @@ O principal objetivo deste desafio era criar um modelo de dados em formato de St
 
 O desafio envolvia a montagem de um esquema em estrela onde a **`tabela fato`** reflete diversas informações sobre os professores, os cursos ministrados e o departamento ao qual cada professor. Além disso, foi necessário criar **`tabelas de dimensão`** que detalham os cursos, as disciplinas oferecidas, os departamentos e as datas relacionadas aos cursos. 
 
-Link da entrega:
-
 ## Estrutura de Tabelas Criadas
 
 * **`Dim_Departamento`**: Contém informações sobre os departamentos, incluindo um identificador único, nome do departamento e localização.
