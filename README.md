@@ -2,11 +2,13 @@
 
 ## Objetivo
 
-O principal objetivo deste desafio era criar um modelo de dados em formato de Star Schema focado na análise de dados de professores.
+O principal objetivo deste desafio era criar um modelo de dados em formato de Star Schema focado na análise de dados de professores na imagem como referência.
+
+![image](https://github.com/user-attachments/assets/786700e9-5a0e-43aa-979d-5a0167ec116d)
 
 ## Descrição do Trabalho
 
-O desafio envolvia a montagem de um esquema em estrela onde a tabela fato reflete diversas informações sobre os professores, os cursos ministrados e o departamento ao qual cada professor pertence. Além disso, foi necessário criar tabelas de dimensão que detalham os cursos, as disciplinas oferecidas, os departamentos e as datas relacionadas aos cursos. A implementação foi realizada utilizando as ferramentas SQL no Azure e Power BI em modo PowerQuery para visualização e análise.
+O desafio envolvia a montagem de um esquema em estrela onde a **`tabela fato`** reflete diversas informações sobre os professores, os cursos ministrados e o departamento ao qual cada professor. Além disso, foi necessário criar **`tabelas de dimensão`** que detalham os cursos, as disciplinas oferecidas, os departamentos e as datas relacionadas aos cursos. 
 
 Link da entrega:
 
